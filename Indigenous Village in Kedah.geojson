@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Indigenous Village in Kedah",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Village Name": "Kampung Lubok Legong", "Population": 310, "Male (%)": 54.2, "Female (%)": 45.8, "Child (0-11)": 25.5, "Adolescent (12-17)": 15.8, "Adult (18-59)": 55.8, "Elderly (60+)": 2.9, "Never Married (%)": 57.7, "Married (%)": 36.5, "Divorced (%)": 1.9, "Widowed (%)": 3.9, "Proto-Malay (%)": 0.0, "Senoi (%)": 4.5, "Negrito (%)": 95.5, "Atheist (%)": 2.6, "Animist (%)": 10.3, "Muslim (%)": 86.8, "Christian (%)": 0.3, "Others (%)": 0.0, "District": "Baling", "Facility": "Prayer Hall, Kindergarten", "Elevation (m)": null, "Latitude": 5.79476, "Longitude": 100.90239, "ID": 1 }, "geometry": { "type": "Point", "coordinates": [ 100.90239, 5.79476 ] } },
+{ "type": "Feature", "properties": { "Village Name": "Kampung Pekan Baling", "Population": 26, "Male (%)": 38.5, "Female (%)": 61.5, "Child (0-11)": 7.7, "Adolescent (12-17)": 30.8, "Adult (18-59)": 53.8, "Elderly (60+)": 7.7, "Never Married (%)": 69.2, "Married (%)": 30.8, "Divorced (%)": 0.0, "Widowed (%)": 0.0, "Proto-Malay (%)": 38.5, "Senoi (%)": 61.5, "Negrito (%)": 0.0, "Atheist (%)": 3.8, "Animist (%)": 3.8, "Muslim (%)": 69.2, "Christian (%)": 3.8, "Others (%)": 19.2, "District": "Baling", "Facility": null, "Elevation (m)": null, "Latitude": null, "Longitude": null, "ID": 2 }, "geometry": null }
+]
+}
